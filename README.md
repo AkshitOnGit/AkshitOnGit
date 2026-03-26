@@ -1,20 +1,28 @@
-## Hi, I'm Akshit
-- B.Tech Student at VIT Bhopal
-- Branch: Cybersecurity and digital forensics
-- Year: 1st Year
-- I am interested in learning programming and improving my technical skills.
+# Hi, I'm Akshit 👋
 
-<!--
-**AkshitOnGit/AkshitOnGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at VIT Bhopal University  
+📚 Branch: Cybersecurity and Digital Forensics  
+📅 Year: 1st Year  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a first-year engineering student passionate about learning programming and building strong problem-solving skills. I am currently exploring different technologies and improving my coding abilities.
+
+---
+
+## 💻 Skills
+- C++
+- Python
+- Problem Solving
+
+---
+
+## 🎯 Goals
+- Improve programming skills  
+- Practice coding regularly  
+- Build projects and contribute to GitHub  
+
+---
+
+⭐ *Always learning and growing!*
