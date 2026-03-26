@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Akshit
+- B.Tech Student at VIT Bhopal
+- Branch: Cybersecurity and digital forensics
+- Year: 1st Year
+- I am interested in learning programming and improving my technical skills.
 
 <!--
 **AkshitOnGit/AkshitOnGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
